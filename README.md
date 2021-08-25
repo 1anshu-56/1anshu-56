@@ -4,7 +4,10 @@
 
 # 𝕭𝖚𝖉𝖌𝖊 𝕭𝖚𝖉𝖌𝖊 𝕴𝖓𝖘𝖙𝖎𝖙𝖚𝖙𝖊 𝖔𝖋 𝕿𝖊𝖈𝖍𝖓𝖔𝖑𝖔𝖌𝖞, 𝕶𝖔𝖑𝖐𝖆𝖙𝖆
 
-![JXA0](https://user-images.githubusercontent.com/66662965/114603517-72903880-9cb5-11eb-9e68-0ad798d30259.gif)    
+<h1 align="center">
+
+![200w](https://user-images.githubusercontent.com/75877192/130783582-213832f9-c2cc-4d7e-81b5-6902e4ae50f9.gif)
+
 
 <!--
 **Anshu-Priya** is a ✨ _special_ ✨ repository appears on your GitHub profile.
@@ -17,23 +20,17 @@
 
 <table align="center" width="100%">
   <tr>
-    <td align="center">
-      <img width="100%" src="https://github-readme-stats.vercel.app/api?username=1anshu-56&show_icons=true&theme=merko&hide_border=true" />
-      <img width="100%" src="https://activity-graph.herokuapp.com/graph?username=1anshu-56&show_icons=true&count_private=true&theme=rogue&area=true&hide_border=true" />
+    <td align="left">
+      <img width="500%" src="https://github-readme-stats.vercel.app/api?username=1anshu-56&show_icons=true&theme=merko&hide_border=true" />
+       <td align="center">
+       <img width="100%" src="https://activity-graph.herokuapp.com/graph?username=1anshu-56&show_icons=true&count_private=true&theme=rogue&area=true&hide_border=true" />
+    </td>  
     </td>
-  </tr>
+    <td align="right">
+  <img width="500%" src="https://github-readme-streak-stats.herokuapp.com/?user=1anshu-56&show_icons=true&locale=en&layout=demo&theme=merko&hide_border=true" />
+</td>
+</tr>
 </table>
-
-<!--
-🔭 I’m currently working with **Let's Grow More Summer of Code'21**
-
--->
-
----
-
-<p align="center">
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=1anshu-56&show_icons=true&locale=en&layout=demo&theme=merko&hide_border=true" />
-</p>
 
 
 
