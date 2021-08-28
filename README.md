@@ -2,7 +2,10 @@
 
 <p align="Left"><img width="30%" src="https://github.com/alansmathew/alansmathew/raw/master/lang.gif" alt="lang image here" /></p>
 
-# 𝕭𝖚𝖉𝖌𝖊 𝕭𝖚𝖉𝖌𝖊 𝕴𝖓𝖘𝖙𝖎𝖙𝖚𝖙𝖊 𝖔𝖋 𝕿𝖊𝖈𝖍𝖓𝖔𝖑𝖔𝖌𝖞, 𝕶𝖔𝖑𝖐𝖆𝖙𝖆
+Budge Budge Institute of Technology, Kolkata
+
+- 🌱 I’m currently learning DSA
+- 👨🏽‍💻 I'm Passionate about Web Dev and Devops
 
 <h1 align="center">
 
@@ -46,7 +49,13 @@
 
 ## 🤝 Connect
 
-[![Skill](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anshu-p-9a0674200)
-[![Skill](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nikki-priyaHIT)
+[![Skill](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/1anshu-56)
+<a href="https://twitter.com/Anshu__Priya">
+    <img width="30px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" />
+  </a>&ensp;
+  <a href="https://www.linkedin.com/in/anshu-p-9a0674200/">
+    <img width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
+  </a>
+
 
 
