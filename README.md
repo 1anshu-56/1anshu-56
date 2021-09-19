@@ -18,7 +18,6 @@ Student at Budge Budge Institute of Technology, Kolkata.
 
 - 🌱 I’m currently learning DSA
 - 👨🏽‍💻 I'm Passionate about Web Dev and Devops
-- ✍️ 
 
 
   
