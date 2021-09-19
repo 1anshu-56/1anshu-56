@@ -18,8 +18,6 @@
 
 [<img align="left" alt="anshupriya | Twitter" width="21px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="anshupriya | LinkedIn" width="21px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-<!-- [<img align="left" alt="anshupriya | Instagram" width="21px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram] -->
-<!-- [<img align="left" alt="anshupriya | Twitter" width="21px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/quora.svg" />][quora] -->
 
 <br/>
 <br />
@@ -36,47 +34,31 @@
 
 <br />
 
-<!-- ### 📕 Latest Quora Posts -->
-
-<!-- BLOG-POST-LIST:START -->
-<!-- - [How to use the 52-17 rule effectively ⚡](https://www.quora.com/How-can-I-use-the-52-17-rule-effectively-in-my-studies/answer/Souvik-Raj-Singh) -->
-
-<!-- - [Most Preffered method of time management 🤓 ☝🏽](https://www.quora.com/What-is-your-preferred-method-of-time-management-and-why/answer/Souvik-Raj-Singh) -->
-
-<!-- - [How to increase Productivity 👨🏽‍💻 and focus](https://www.quora.com/How-do-you-increase-productivity-and-focus) -->
-
-<!-- - [How to use Notion as a techy 👽](https://www.quora.com/How-do-you-take-the-most-out-of-productivity-tools-and-which-ones-do-you-recommend) -->
-
-<!-- BLOG-POST-LIST:END -->
-
-<!-- ➡️ [more Quora posts...](https://www.quora.com/profile/Souvik-Raj-Singh) -->
-
----
-
-  <!-- <summary>:zap: GitHub Stats</summary> -->
 
 <br />
 
-<!-- [![Twitter Follow](https://img.shields.io/twitter/follow/anshu?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https://github.com/anshupriya&screen_name=anshupriya) -->
-<!-- Github stats  -->
-
-<img align="center"  src="https://github-readme-stats.vercel.app/api?username=1anshu-56&show_icons=true&include_all_commits=true&theme=tokyonight" alt="Anshu's github stats" />
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=1anshu-56&label=Profile%20views&color=0e75b6&style=flat" alt="anshupriya" /> </p>
-
 <br />
+<table align="center" width="100%">
+  <tr>
+    <td align="left">
+      <img width="500%" src="https://github-readme-stats.vercel.app/api?username=1anshu-56&show_icons=true&theme=merko&hide_border=true" />
+      <td align="right">
+  <img width="500%" src="https://github-readme-streak-stats.herokuapp.com/?user=1anshu-56&show_icons=true&locale=en&layout=demo&theme=merko&hide_border=true" />
+    </td>  
+    </td>
+</td>
+</tr>
+</table>
 
-Contribution graph 
-
-<img align= "center" src="https://activity-graph.herokuapp.com/graph?username=1anshu-56&show_icons=true&count_private=true&theme=rogue&area=true&hide_border=true" /> 
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=1anshu-56)](https://github.com/1anshu-56)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1anshu-56&layout=compact)](https://github.com/1anshu-56)
+<table>
+    <tr>
+      <td align="left"><img align="left" width="150" height="150" src="https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true" />
+      <td align="center">
+        <img width="100%" src="https://activity-graph.herokuapp.com/graph?username=1anshu-56&show_icons=true&count_private=true&theme=rogue&area=true&hide_border=true" />
+    </tr>
+  </table>
 
 <!-- references -->
 
 [twitter]: https://twitter.com/Anshu__Priya
-<!-- [instagram]: https://instagram.com/anshupriya -->
-<!-- [quora]: https://www.quora.com/profile/Souvik-Raj-Singh -->
 [linkedin]: https://www.linkedin.com/in/anshu-p-9a0674200/
