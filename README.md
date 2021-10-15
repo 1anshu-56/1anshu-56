@@ -1,30 +1,13 @@
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!🙏;Welcome🙇‍♀️+to+my+profile&center=true&size=30"></h1>
 <h1 align ="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, Anshu here🌸!</h1>
-
-
-
-
-
-
-
 <img align="left" width="150" height="150" src="https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true"></a>
 
- 
  ![visitors](https://visitor-badge.glitch.me/badge?page_id=1anshu-56)
   
-
 Student at Budge Budge Institute of Technology, Kolkata.
-
 - 🌱 I’m currently learning DSA
-- 👨🏽‍💻 I'm Passionate about Web Dev and Devops
-
-<br/>
-
-
-
-<br/>
-
+- 👨🏽‍💻 I'm Passionate about Web Dev and Devops<br/>
 
 ### Languages and Tools:
 
@@ -34,7 +17,6 @@ Student at Budge Budge Institute of Technology, Kolkata.
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>  
-
 <br />
 <h1> 
   <table>
@@ -56,8 +38,8 @@ Student at Budge Budge Institute of Technology, Kolkata.
   </table>
   
   <h1>
-
-  ### 👀 Connect with me:
+  
+### 👀 Connect with me:
   
   <a href="https://twitter.com/Anshu__Priya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Anshu__Priya" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/anshu-p-9a0674200/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thepranaygupta" height="30" width="40" /></a>
