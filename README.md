@@ -3,7 +3,7 @@
 <h1 align ="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, Anshu here🌸!</h1>
 <img align="left" width="150" height="150" src="https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true"></a>
 
- ![visitors](https://visitor-badge.glitch.me/badge?page_id=1anshu-56)
+ ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=1anshu-56.repoName) [![GitHub followers](https://img.shields.io/github/followers/1anshu-56.svg?style=social&label=Follow)](https://github.com/1anshu-56?tab=following)<br/>
   
 Student at Budge Budge Institute of Technology, Kolkata.
 - 🌱 I’m currently learning DSA
