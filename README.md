@@ -51,6 +51,5 @@ Student at Budge Budge Institute of Technology, Kolkata.
 [linkedin]: https://www.linkedin.com/in/anshu-p-9a0674200/
   
  ### Hacktoberfest 2022 Badge 
-   
-  [![@anshu0priya's Holopin board](https://holopin.me/anshu0priya)](https://holopin.io/@anshu0priya)
+   [![@anshu0priya's Holopin board](https://holopin.me/anshu0priya)](https://holopin.io/@anshu0priya)
 
