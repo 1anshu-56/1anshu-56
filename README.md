@@ -36,8 +36,8 @@ Student at Budge Budge Institute of Technology, Kolkata.
   
 ### 👀 Connect with me:
 
-[<img align="left" alt="https://twitter.com/anshupriyastwt | Twitter" width="40px" src="https://tse4.mm.bing.net/th?id=OIP.CMGN1YrmE20USUOkjLA50wHaHa&pid=Api&P=0&h=180" />][twitter]
-[<img align="left" alt="https://www.linkedin.com/in/anshu-priya-linkdin/ | LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="https://twitter.com/anshupriyastwt | Twitter" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="https://www.linkedin.com/in/anshu-priya-linkdin/ | LinkedIn" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <!-- references -->
 
