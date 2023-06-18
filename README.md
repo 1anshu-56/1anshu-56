@@ -45,10 +45,10 @@ Student at Budge Budge Institute of Technology, Kolkata.
 
 <!-- references -->
 
-[twitter]: https://twitter.com/Anshu__Priya
+[twitter]: https://twitter.com/anshupriyastwt
 <!-- [instagram]: https://instagram.com/souvikrajsingh -->
 <!-- [quora]: https://www.quora.com/profile/Souvik-Raj-Singh -->
-[linkedin]: https://www.linkedin.com/in/anshu-p-9a0674200/
+[linkedin]: https://www.linkedin.com/in/anshu-priya-linkdin/
   
  ### Hacktoberfest 2022 Badge 
    [![@anshu0priya's Holopin board](https://holopin.me/anshu0priya)](https://holopin.io/@anshu0priya)
