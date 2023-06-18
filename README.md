@@ -40,8 +40,8 @@ Student at Budge Budge Institute of Technology, Kolkata.
 <a href="https://www.linkedin.com/in/anshu-p-9a0674200/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thepranaygupta" height="30" width="40" /></a>
 
 
-<!-- [<img align="left" alt="anshupriya | Twitter" width="21px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter] -->
-<!-- [<img align="left" alt="anshupriya | LinkedIn" width="21px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin] -->
+[<img align="left" alt="anshupriya | Twitter" width="21px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="anshupriya | LinkedIn" width="21px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <!-- references -->
 
