@@ -35,13 +35,9 @@ Student at Budge Budge Institute of Technology, Kolkata.
   <h1>
   
 ### 👀 Connect with me:
-  
-  <a href="https://twitter.com/Anshu__Priya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Anshu__Priya" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/anshu-p-9a0674200/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thepranaygupta" height="30" width="40" /></a>
 
-
-[<img align="left" alt="anshupriya | Twitter" width="21px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="anshupriya | LinkedIn" width="21px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="https://twitter.com/anshupriyastwt | Twitter" width="40px" src="https://tse4.mm.bing.net/th?id=OIP.CMGN1YrmE20USUOkjLA50wHaHa&pid=Api&P=0&h=180" />][twitter]
+[<img align="left" alt="https://www.linkedin.com/in/anshu-priya-linkdin/ | LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <!-- references -->
 
@@ -49,6 +45,9 @@ Student at Budge Budge Institute of Technology, Kolkata.
 <!-- [instagram]: https://instagram.com/souvikrajsingh -->
 <!-- [quora]: https://www.quora.com/profile/Souvik-Raj-Singh -->
 [linkedin]: https://www.linkedin.com/in/anshu-priya-linkdin/
+
+<br />
+<h1>
   
  ### Hacktoberfest 2022 Badge 
    [![@anshu0priya's Holopin board](https://holopin.me/anshu0priya)](https://holopin.io/@anshu0priya)
